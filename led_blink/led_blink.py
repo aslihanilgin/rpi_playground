@@ -1,3 +1,5 @@
+# Author: https://www.hackster.io/rajeshjiet/led-blink-using-raspberry-pi-b38dbe#:~:text=LED%20Blinking%20using%20a%20Raspberry,off%20state%20using%20Python%20programming.
+
 import RPi.GPIO as GPIO
 from time import sleep
 
